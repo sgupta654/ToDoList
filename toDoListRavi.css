@@ -1,0 +1,62 @@
+#sDiv { 
+	background:none;border:none;
+}
+
+#formDiv{
+	border: 1px solid;
+	width:325px;
+	padding-left: 5px;
+	padding-top:  5px;
+	padding-bottom: 50px;
+	margin-top: 5px;
+}
+#formID{
+	list-style-type: none;
+}
+
+#addButton{
+    font-family: Verdana;
+	width: 50px;
+	height: 20px;
+    color: white;
+    border: none;
+	background-color: #009933;
+	border-radius: 5px;
+}
+.buttonStyle{
+
+    color: blue;
+	border: none;
+	background-color: white;
+
+}
+.taskButtonDiv{
+	width: 85px;
+	position: relative;
+	display: inline;
+
+}
+
+.taskReadOnly{
+
+	border: none;
+	background-color:  white;
+    width: 220px;
+}
+
+
+
+.checkedStyle{
+    border: none;
+	background-color:  white;
+    width: 220px;
+    text-decoration: line-through;
+}
+.taskTextDiv{
+    width: 216px;
+}
+
+#thdD{
+
+	width: 300px;
+}
